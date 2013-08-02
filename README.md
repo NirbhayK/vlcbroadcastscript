@@ -1,5 +1,5 @@
-vlcbroadcastscript
-==================
+Broadcast FACETIME camera with VLC
+==================================
 
 Broadcast and transcode Facetime camera stream with vlc [Mac] .
 
